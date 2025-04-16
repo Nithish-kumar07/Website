@@ -1,10 +1,1 @@
-Project type:  website
-
-Technologies used: html, css, react, node.js, express.js, mongoDB, Bootstrap
-
-Features:  responsive design, login system,
-
-Batch Number: G25
-
-Course Name: Course-Full-Stack-Development
-
+AI-Integrated MERN Stack Website for a Christian Learning NGO with Real-Time Chatbot Support
